@@ -1,6 +1,6 @@
 ##Portfolio##
 
-Just clone the repository and click on the html file to get the portfolio running!
+Just download the repository and click on the html file to get the portfolio running!
 It should look like this:
 
 <img width="1440" alt="Screenshot 2023-02-15 at 17 51 21" src="https://user-images.githubusercontent.com/105786900/219112650-6ce831b3-b862-4432-a607-a2addac4f6b2.png">
